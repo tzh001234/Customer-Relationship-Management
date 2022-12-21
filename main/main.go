@@ -2,7 +2,7 @@ package main
 
 import(
 	"fmt"
-	"HomeWork/customers_/customers"
+	"Customer-Relationship-Management/customers"
 )
 
 type CustomerManagement struct{
