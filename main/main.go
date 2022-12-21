@@ -82,7 +82,6 @@ func (c *CustomerManagement)add(){
 	fmt.Scanln(&p)
 	fmt.Println("请输入e_mail")
 	fmt.Scanln(&e)
-
 	c.customers.Add(na,s,a,p,e)
 }
 func (c *CustomerManagement)delete(){
