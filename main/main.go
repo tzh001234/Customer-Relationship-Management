@@ -6,9 +6,7 @@ import(
 )
 
 type CustomerManagement struct{
-
 	customers customers.Customers
-
 	b bool
 	s string
 }
