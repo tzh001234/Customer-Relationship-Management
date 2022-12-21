@@ -1,7 +1,7 @@
 package customers
 
 import (
-	"HomeWork/customers_/customer"
+	"Customer-Relationship-Management/customer"
 ) 
 
 
